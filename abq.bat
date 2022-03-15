@@ -1,0 +1,1 @@
+abq2020 interactive job=model2_tri_abq input=model2_tri.inp
